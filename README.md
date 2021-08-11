@@ -7,11 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhattaraibishal50, https://gitlab.com/bhattaraibishal50](https://github.com/bhattaraibishal50, https://gitlab.com/bhattaraibishal50)
 
-- 📝 I regularly write articles on [https://techdai.info/](https://techdai.info/)
+- ✅ Check my portfolio on [https://bishalbhattarai50.com.np](https://bishalbhattarai50.com.np)
+
+- 📝 I regularly write articles on [https://blog.bishalbhattarai50.com.np](https://blog.bishalbhattarai50.com.np)
 
 - 💬 Ask me about **React,React Native, NextJs, Go,PHP, Python**
 
-- 📫 How to reach me **bhattaraibishal50@gmail.com**
+- 📫 How to reach me **bhattaraibishal50@gmail.com** 
 
 - ⚡ Fun fact **My favorite comfort food is `दाल भात`**
 
