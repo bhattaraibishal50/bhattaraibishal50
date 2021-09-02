@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Readytowork](https://github.com/readytowork-org)
 
-- 🌱 I’m currently learning **React Native, kubernetes**
+- 🌱 I’m currently learning **kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhattaraibishal50, https://gitlab.com/bhattaraibishal50](https://github.com/bhattaraibishal50, https://gitlab.com/bhattaraibishal50)
 
