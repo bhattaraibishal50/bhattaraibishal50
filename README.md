@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhattaraibishal50, https://gitlab.com/bhattaraibishal50](https://github.com/bhattaraibishal50, https://gitlab.com/bhattaraibishal50)
+- 👨‍💻 All of my projects are available at [github](https://github.com/bhattaraibishal50),[gitlab](https://gitlab.com/bhattaraibishal50)
 
-- ✅ Check my portfolio on [https://bishalbhattarai50.com.np](https://bishalbhattarai50.com.np)
+- ✅ Check my portfolio on [bishalbhattarai50.com.np](http://bishalbhattarai50.com.np)
 
-- 📝 I regularly write articles on [https://blog.bishalbhattarai50.com.np](https://blog.bishalbhattarai50.com.np)
+- 📝 I regularly write articles on [blog.bishalbhattarai50.com.np](https://blog.bishalbhattarai50.com.np)
 
 - 💬 Ask me about **React,React Native, NextJs, Go,PHP** 
 
