@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working Remotely
 
-- 🌱 I’m currently learning **kubernetes**
-
 - 👨‍💻 All of my projects are available at [github](https://github.com/bhattaraibishal50),[gitlab](https://gitlab.com/bhattaraibishal50)
 
 - ✅ Check my portfolio on [bishalbhattarai50.com.np](http://bishalbhattarai50.com.np)
