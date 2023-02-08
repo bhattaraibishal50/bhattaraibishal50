@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishal Bhattarai</h1>
 <h3 align="center">A passionate Software Engineer From Nepal.🇳🇵</h3>
 
-- 🔭 I’m currently working Remotely.
+- 🔭 I’m currently working Remotely
 
 - 🌱 I’m currently learning **kubernetes**
 
