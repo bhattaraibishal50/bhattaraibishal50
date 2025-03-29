@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [blog.bishalbhattarai50.com.np](https://blog.bishalbhattarai50.com.np)
 
-- 💬 Ask me about **React,React Native, NextJs, Go,PHP** 
+- 💬 Ask me about **React,React Native, NextJs, Go,PHP, Python, AWS, GCP** 
 
 - 📫 How to reach me **bhattaraibishal50@gmail.com** 
 
