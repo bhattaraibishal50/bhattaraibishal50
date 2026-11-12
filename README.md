@@ -4,7 +4,7 @@
 
 - ✅ Check my portfolio on [bishalbhattarai50.com.np](http://bishalbhattarai50.com.np)
 
-- 📝 I regularly write articles on [blog.bishalbhattarai50.com.np](https://blog.bishalbhattarai50.com.np)
+- 📝 I regularly write articles on [https://me.bishalbhattarai50.com.np/blogs](https://me.bishalbhattarai50.com.np/blogs)
 
 - 💬 Ask me about **React,React Native, NextJs, Go,PHP, Python, AWS, GCP** 
 
